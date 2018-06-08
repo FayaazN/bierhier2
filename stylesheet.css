@@ -1,0 +1,92 @@
+img {
+    width: 100%;
+}
+
+html, body {
+    max-width: 1200px;
+    padding: 0;
+    height: 100%;
+    margin:auto;
+    width:100%;
+}
+
+h3 {
+    color: #000000;
+    font-size: 23px;
+}
+
+h1 {
+    color:#000000;
+}
+
+
+.padding {
+    padding:5px;
+}
+
+.padding2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.wrapper{
+    width: 1200px;
+    margin: auto;
+}
+
+img#bier{
+    width: 150px;
+    height:150px;
+}
+
+article{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.nav {
+    background-color: cadetblue;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px 0 10px 0;
+    font-size: 19px
+
+}
+
+.nav > li{
+    display:inline-block;
+    padding-right: 50px;
+    margin-left:20px
+}
+
+.nav > li > a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+footer{
+
+    height:220px;
+    background-color:#9c9a9e;
+    color: white
+}
+
+
+.ullinks{
+    font-size: 20px;
+    list-style-type: none;
+}
+
+.ullinks a{
+    color:white;
+}
+
+div#wrapper{
+    margin: auto;
+    width: 1200px;
+    background-color: whitesmoke;
+    align-content: center;
+    height:900px;
+}
